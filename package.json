@@ -21,8 +21,8 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "🖋️ Source — 👐🏻 Open —",
-		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"email": "Source/Open@PlayForm.LTD",
+		"url": "HTTPS://PlayForm.LTD"
 	},
 	"type": "module",
 	"main": "./Target/Class/Document.js",
@@ -37,9 +37,9 @@
 	"dependencies": {
 		"commander": "12.1.0",
 		"fast-glob": "3.3.2",
-		"typedoc": "0.26.10",
+		"typedoc": "0.26.11",
 		"typedoc-plugin-keywords": "1.6.0",
-		"typedoc-plugin-mdn-links": "3.3.5",
+		"typedoc-plugin-mdn-links": "3.3.6",
 		"typedoc-plugin-merge-modules": "6.0.3",
 		"typedoc-plugin-remove-references": "0.0.6",
 		"typedoc-plugin-rename-defaults": "0.7.1",
