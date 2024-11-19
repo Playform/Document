@@ -1,5 +1,17 @@
 ## 0.1.3
 
+### Changed
+
+-   Updated version in `package.json` to 0.1.3.
+-   Updated contact email in `package.json` from `Source/Open@PlayForm.Cloud` to
+    `Source/Open@PlayForm.LTD`.
+-   Updated URL in `package.json` from `HTTPS://PlayForm.Cloud` to
+    `HTTPS://PlayForm.LTD`.
+-   Updated `typedoc` to version 0.26.11.
+-   Updated `typedoc-plugin-mdn-links` to version 3.3.8.
+-   Updated `typedoc-plugin-merge-modules` to version 6.0.3.
+-   Updated `@playform/build` to version 0.1.9.
+
 ## 0.1.2
 
 ### Changed
