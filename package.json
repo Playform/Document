@@ -36,11 +36,7 @@
 	},
 	"dependencies": {
 		"commander": "13.0.0",
-<<<<<<< HEAD
 		"fast-glob": "3.3.3",
-=======
-		"fast-glob": "3.3.2",
->>>>>>> e1aa9fab219299da09192ce9b7f3c84889a1ccfb
 		"typedoc": "0.27.6",
 		"typedoc-plugin-keywords": "1.6.0",
 		"typedoc-plugin-mdn-links": "4.0.7",
