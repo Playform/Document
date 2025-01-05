@@ -1,5 +1,27 @@
 ## 0.1.4
 
+### Added
+
+- Added `DEPENDENTS.md` file to track dependents.
+
+### Changed
+
+- Updated version in `package.json` to 0.1.4.
+- Updated contact email in `package.json` from Source/Open@PlayForm.Cloud to
+  Source/Open@PlayForm.LTD.
+- Updated URL in `package.json` from HTTPS://PlayForm.Cloud to
+  HTTPS://PlayForm.LTD.
+- Updated `commander` to version 13.0.0.
+- Updated `fast-glob` to version 3.3.3.
+- Updated `typedoc` to version 0.27.6.
+- Updated `typedoc-plugin-mdn-links` to version 4.0.7.
+- Updated `typedoc-plugin-merge-modules` to version 6.1.0.
+- Updated `typedoc-plugin-rename-defaults` to version 0.7.2.
+- Updated `typedoc-plugin-zod` to version 1.3.1.
+- Updated `@playform/build` to version 0.2.1.
+- Removed unnecessary type annotations in `Document.ts` and `JSON.ts`.
+- Removed `Exec.ts.`
+
 ## 0.1.3
 
 ### Changed
