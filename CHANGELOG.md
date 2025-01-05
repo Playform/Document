@@ -20,7 +20,6 @@
 - Updated `typedoc-plugin-zod` to version 1.3.1.
 - Updated `@playform/build` to version 0.2.1.
 - Removed unnecessary type annotations in `Document.ts` and `JSON.ts`.
-- Removed `Exec.ts.`
 
 ## 0.1.3
 
