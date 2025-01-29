@@ -1,8 +1,8 @@
-# 📃 [Document] —
+# [Document] 📃
 
 Document all your TypeScript files using TypeDoc.
 
-## 🚀 Installation
+## Installation 🚀
 
 Add configuration and setup scripts:
 
