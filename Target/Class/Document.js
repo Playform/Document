@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-var e=new(await import("commander")).Command().name("Document").version("0.1.4").description("\u{1F4C3}\u2001Document\u2001\u2014").argument("<File...>","\u{1F4DD}\u2001File\u2001\u2014").option("-F, --Folder <Folder>","\u{1F4DC}\u2001Folder\u2001\u2014").action((await import("../Function/Document.js")).default).parse();export{e as default};
+var e=new(await import("commander")).Command().name("Document").version("0.1.4").description("Document\u2001\u{1F4C3}").argument("<File...>","File\u2001\u{1F4DD}").option("-F, --Folder <Folder>","Folder\u2001\u{1F4DC}").action((await import("../Function/Document.js")).default).parse();export{e as default};
