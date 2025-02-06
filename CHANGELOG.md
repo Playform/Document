@@ -1,10 +1,10 @@
 ## 0.1.4
 
-### Added
+### Add
 
 - Added `DEPENDENTS.md` file to track dependents.
 
-### Changed
+### Change
 
 - Updated version in `package.json` to 0.1.4.
 - Updated contact email in `package.json` from Source/Open@PlayForm.Cloud to
@@ -23,7 +23,7 @@
 
 ## 0.1.3
 
-### Changed
+### Change
 
 - Updated version in `package.json` to 0.1.3.
 - Updated contact email in `package.json` from `Source/Open@PlayForm.Cloud` to
@@ -37,7 +37,7 @@
 
 ## 0.1.2
 
-### Changed
+### Change
 
 - Renamed Documentation folder to docs
 - Updated `typedoc` to version 0.26.7
@@ -48,7 +48,7 @@
 
 ## 0.1.1
 
-### Changed
+### Change
 
 - Updated `typedoc` to version 0.26.6
 - Updated `typedoc-plugin-mdn-links` to version 3.2.10
@@ -57,56 +57,56 @@
 
 ## 0.1.0
 
-### Added
+### Add
 
 - Added `Run` script to package.json
 - Added `provenance` field to package.json
 
-### Changed
+### Change
 
 - Updated dependencies
 - Updated code to resolve TODOs
 
 ## 0.0.12
 
-### Added
+### Add
 
 - Added CLI usage instructions to README.md
 
-### Changed
+### Change
 
 - Updated dependencies
 - Minor code changes
 
 ## 0.0.11
 
-### Changed
+### Change
 
 - Updated dependencies
 
 ## 0.0.10
 
-### Changed
+### Change
 
 - Moved `@playform/build` from `peerDependencies` to `devDependencies`
 
 ## 0.0.9
 
-### Changed
+### Change
 
 - Removed `Document` script from package.json
 - Updated dependencies
 
 ## 0.0.8
 
-### Changed
+### Change
 
 - Improved logic for determining git remote
 - Updated error handling in `Exec` function
 
 ## 0.0.7
 
-### Changed
+### Change
 
 - Updated package description, keywords, homepage, and repository URLs
 - Updated dependencies
@@ -114,30 +114,30 @@
 
 ## 0.0.6
 
-### Added
+### Add
 
 - Added `Document` script to package.json
 
-### Changed
+### Change
 
 - Updated `@playform/build` dependency
 
 ## 0.0.5
 
-### Changed
+### Change
 
 - Updated code to use dynamic path resolution for `--customCss` option
 
 ## 0.0.4
 
-### Changed
+### Change
 
 - Updated `@playform/build` dependency
 - Removed `Document` script from package.json
 
 ## 0.0.3
 
-### Changed
+### Change
 
 - Renamed `TypeScriptDocument` to `Document`
 - Updated package description and keywords
@@ -147,12 +147,12 @@
 
 ## 0.0.2
 
-### Changed
+### Change
 
 - Updated `Document` script in package.json
 
 ## 0.0.1
 
-### Added
+### Add
 
 - Initial release
