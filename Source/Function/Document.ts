@@ -27,7 +27,7 @@ export default (async (...[File, Option]) => {
 							`--gitRevision ${__Error ? "main" : Branch}`,
 							`--gitRemote ${_Error ? "origin" : Remote}`,
 							"--commentStyle all",
-							`--customCss ${(await import("path")).resolve(
+							`--customCss ${(await import("node:path")).resolve(
 								`${Current}/../../Stylesheet/Theme.css`,
 							)}`,
 							"--includeVersion",
@@ -59,10 +59,10 @@ export default (async (...[File, Option]) => {
 
 export const { default: Exec } = await import("@Function/Exec.js");
 
-export const { resolve } = await import("path");
+export const { resolve } = await import("node:path");
 
 export const Pipe: string[] = [];
 
 export const Current = (await import("url")).fileURLToPath(
-	(await import("path")).dirname(import.meta.url),
+	(await import("node:path")).dirname(import.meta.url),
 );
